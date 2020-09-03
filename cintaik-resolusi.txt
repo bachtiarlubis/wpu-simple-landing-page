@@ -1,0 +1,9 @@
+Nama ane cintaik.
+
+Saya punya resolusi sebagai berikut:
+* Faham Git
+* Faham OOP UNPAS
+* Faham MVC UNPAS
+* Faham Codeigniter
+* Faham Javascript
+* Faham React
